@@ -24,7 +24,7 @@ $(document).ready(function() {
     });
 
     //owl-carousel for blog
-    /*$('.owl-carousel').owlCarousel({
+    $('.owl-carousel').owlCarousel({
         loop: true,
         autoplay: false,
         autoplayTimeout: 3000,
@@ -32,7 +32,7 @@ $(document).ready(function() {
         nav: true,
         navText: [$('.owl-navigation .owl-nav-prev'), $('.owl-navigation .owl-nav-next')],
         responsive: responsive
-    }); */
+    }); 
 
     // click to scroll up
     $('.move-up span').click(function() {
