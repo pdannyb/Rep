@@ -444,7 +444,7 @@ main .post-content .post-title .service-post {
 
 footer.footer  {
     height: 100%;
-    width: 100%;
+    width: 100% !important;
     background: var(--big-color);
     position: relative;
 }
