@@ -443,8 +443,8 @@ main .post-content .post-title .service-post {
 /* ------------- Footer ----------------- --*/
 
 footer.footer  {
-    height: 100%;
-    width: 100% !important;
+    /*height: 100%;*/
+    width: 100%;
     background: var(--big-color);
     position: relative;
 }
