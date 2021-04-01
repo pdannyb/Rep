@@ -2,9 +2,14 @@
 @import url('../css/fonts.css');
 
 html, body {
-    margin: 0%;
+   
+  max-width: 500px;
+  margin: auto;
+  background: white;
+  padding: 10px;
+    /*margin: 0%;
     box-sizing: border-box;
-    overflow-x: hidden;
+    overflow-x: hidden; */
 }
 
 :root {
