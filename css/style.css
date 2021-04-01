@@ -29,6 +29,13 @@ html, body {
 
 /*----------Global Classes--------*/
 
+.content {
+  max-width: 500px;
+  margin: auto;
+  background: white;
+  padding: 10px;
+}
+
 a {
     text-decoration: none;
     color: var(--text-gray);
