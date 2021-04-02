@@ -3,7 +3,7 @@
 
 html, body {
    
-  max-width: 1600px;
+  max-width: 1550px;
   margin: auto;
   background: white;
   /* padding: 10px; */
@@ -83,9 +83,9 @@ span {
     font-family: var(--Abel);
 }
 
-/* .container {
+.container {
     margin: 0 5vw; 
-} */
+} 
 
 .text-gray {
     color: var(--text-gray);
