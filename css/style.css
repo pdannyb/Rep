@@ -190,7 +190,7 @@ p {
 main .site-title {
     background: url('../assets/background/back1.jpg');
     background-size: cover;
-    height: 100vh;
+    height: 50%;
     display: flex;
     justify-content: center;
 }
