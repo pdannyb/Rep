@@ -190,7 +190,7 @@ p {
 main .site-title {
     background: url('../assets/background/back1.jpg');
     background-size: cover;
-    height: 50%;
+    height: 75%;
     display: flex;
     justify-content: center;
 }
@@ -658,6 +658,7 @@ main .post-content .post-title .service-post {
     /*background: #F00; */
     padding-left: 0px !important; 
     padding-right: 0px !important;}
+   background: var(--big-color);
 }
 
 footer.footer  {
